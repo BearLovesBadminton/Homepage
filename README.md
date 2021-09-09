@@ -4,7 +4,7 @@ Welcome to my Homepage!
 
 
 ### Personal Info
-Currently I am the Associate Professor of the Department of Applied Statistics in the SSM at SUFE. My research interest includes high-dimensional data modelling, variable selection and screening, statistical learning, some topics in graphical models and complex data modelling.
+Currently I am the Associate Professor of the Department of Applied Statistics in the SSM at SUFE. My research interest includes high-dimensional data modelling, variable selection and screening, theory on statistical learning and networks, and some topics in graphical models and complex data modelling.
 
 ### Education
 
@@ -18,13 +18,12 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 - Statistics (for Ecnomics and Business)
 - Predictive Analysis (for MBA)
 - Data Analysis and Visualization
-- Data Analysis and Modelling
+- Data Analysis and Statistical Modelling (for BU program)
 
 ### Publication
 To be updated...
 
 
 ### Work Experience
+To be updated...
 
-- Senior Analyst in model development TD Bank, Toronto, Canada. 
-- LQ Sci-tech Ltd., Hangzhou, China.
