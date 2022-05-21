@@ -15,7 +15,6 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 ### Teaching
 
 - Mathematical Statistics
-- Statistics (for Ecnomics and Business)
 - Predictive Analysis (for MBA)
 - Data Analysis and Visualization
 - Data Analysis and Statistical Modelling (for BU program)
