@@ -27,7 +27,7 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 - Liu, X., Yi, G.Y., Bauman, G., & He, W. 2021. Ensembling imbalanced-spatial-structured support vector machine. Econometrics and Statistics, 17, 145-155. https://doi.org/10.1016/j.ecosta.2020.02.003.
 - Fang, Z., Li, W., Liu, X., Pu, X. & Xiang, D. (2021+). Online monitoring of high-dimensional binary data streams with application to extreme weather surveillance, Journal of Applied Statistics. To appear. https://doi.org/10.1080/02664763.2021.1971633
 - Shao, J., Liu, X.* & He, W. 2021. Kernel Based Data-Adaptive Support Vector Machines for Multi-Class Classification. Mathematics, 9(9), 936. https://doi.org/10.3390/math9090936
-- Liu, X., Zhao, B., & He, W. 2020.  Simultaneous feature selection and classification for data-adaptive kernel-penalized SVM, Mathematics, 8(10), 1846. https://doi.org/10.3390/math8101846
+- Liu, X., Zhao, B., & He, W. 2020.  Simultaneous feature selection and classification for data-adaptive kernel-penalized SVM. Mathematics, 8(10), 1846. https://doi.org/10.3390/math8101846
 - Liu, X., Wu, J., Yang, C. & Jiang, W. 2018. A maximal tail dependence-based clustering procedure for financial time series and its applications in portfolio selection. Risks, 6(115),1-18. 
 - Yang, C., Liu, X., Wu, J., Li, Z & Jiang, W. 2018. Clustering of financial time series using jump tail dependence coefficient. Statistical Methods and Applications, 27(3), 491-513.
 
