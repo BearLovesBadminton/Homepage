@@ -20,7 +20,7 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 - Data Analysis and Statistical Modelling (for BU program)
 
 ### Publication
-- Guo, S., Xu, M. & Liu, X.* (2022+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Accepted.
+- Guo, S., Xu, M. & \textbf{Liu, X}.* (2022+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Accepted.
 - Che, Y., Chen, S., Liu X.*. 2022. Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
 - Liu, X., Zheng, Q., Shen, X. & Wang, S. 2022. An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287
 - Liu, X. & He, W. 2022. Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669 
