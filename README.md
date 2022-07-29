@@ -21,7 +21,8 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 
 ### Publication
 - Guo, S., Xu, M. & Liu, X.* (2022+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Accepted.
-- Liu, X., Zheng, Q., Shen, X., & Wang, S. 2022. An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287
+- Che, Y., Chen, S., Liu X.*. 2022. Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
+- Liu, X., Zheng, Q., Shen, X. & Wang, S. 2022. An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287
 - Liu, X. & He, W. 2022. Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669 
 - Zhao, B., Liu, X*., He, W. & Yi, G.Y. 2021. Dynamic tilted current correlation for high dimensional variable screening. Journal of Multivariate Analysis, 182, 104693. https://doi.org/10.1016/j.jmva.2020.104693
 - Liu, X., Yi, G.Y., Bauman, G., & He, W. 2021. Ensembling imbalanced-spatial-structured support vector machine. Econometrics and Statistics, 17, 145-155. https://doi.org/10.1016/j.ecosta.2020.02.003.
