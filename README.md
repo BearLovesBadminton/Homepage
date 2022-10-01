@@ -3,8 +3,8 @@
 Welcome to my Homepage!
 
 
-### Personal Info
-Currently I am the Associate Professor of the Department of Applied Statistics in the SSM at SUFE. My research interest includes high-dimensional data modelling, variable selection and screening, theory on statistical learning and networks, and some topics in graphical models and complex data modelling.
+### Perosonal info and Research interest
+Currently I am the Chaired Associate Professor of the Department of Applied Statistics in the School of Statistics and Management at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, variable selection and screening, theories on statistical learning and networks, and some topics in graphical models and complex data modelling.
 
 ### Education
 
@@ -12,12 +12,21 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 - M.Sc., School of Statistics and Management, SUFE
 - Bacholar, School of Statistics and Management, SUFE
 
+### Working Experience
+
+- 2020.8 to present: Chaired Associate Professor with tenure in the School of Finance and Economics, SUFE.
+- 2020.8 to 2022.8: Associate Professor in the School of Finance and Economics, SUFE.
+- 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Finance and Economics, SUFE.
+- 2018.8 /- 2019.1, Visiting scholar, Simon Fraser University
+- 2018.2 /- 2018.7, Visiting scholar, University of Waterloo
+
+
 ### Teaching
 
 - Mathematical Statistics
 - Predictive Analysis (for MBA)
-- Data Analysis and Visualization
-- Data Analysis and Statistical Modelling (for BU program)
+- Data Visualization
+- Data Analysis and Statistical Modelling
 
 ### Publication
 - Guo, S., Xu, M. & **Liu, X**.* (2022+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Accepted.
@@ -37,9 +46,7 @@ Currently I am the Associate Professor of the Department of Applied Statistics i
 - Chen, S., **Liu, X.*** & He, W.. Grouped variable selection in joint modeling using block coordinate gradient descent method. Submitted to Canadian Journal of Statistics. Under review.
 - Li, W., & **Liu, X.***. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Submitted to Canadian Journal of Statistics. Under review.
 
-### Work Experience
- - Jul 2020 to present: Associate Prof in School of Finance and Economics, SUFE.
- - Jan 2019 to Jul 2020: Assistant Research Fellow / Assistant Prof in School of Finance and Economics, SUFE.
+
  
 
 
