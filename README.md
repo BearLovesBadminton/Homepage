@@ -29,8 +29,15 @@ Currently I am the Chaired Associate Professor of the Department of Applied Stat
 - Data Analysis and Statistical Modelling
 
 ### Publication
-- Guo, S., Xu, M. & **Liu, X**.* (2022+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Minor revision.
-- Che, Y., Chen, S., **Liu, X.**. 2022. Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
+
+- Li, W. & **Liu, X.***. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
+- Zhang, Z. & **Liu, X.***. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. ICML 2022. Under review. 
+- Wang, S., Shi, H. & **Liu, X.***. Simultaneous dimension deduction and drediction using networks. ICML 2023. Under review. 
+- Chen, S. & **Liu, X**.* (2023+) A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Under review.
+- Guo, S., Wang, S. & **Liu, X**.* (2023+). A Novelty Update and Propagation-based Dynamic Graph Neural Networks and Its Application to Consumer Finance Data. Statistics and Its Interface. Minor revision.
+- **Liu, X**., Chen, S. & Hu, J.* (2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
+- Guo, S., Xu, M. & **Liu, X**.* (2023+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Minor revision.
+- Che, Y., Chen, S., **Liu, X**. 2022. Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
 - **Liu, X.**, Zheng, Q., Shen, X. & Wang, S. 2022. An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287
 - **Liu, X.** & He, W. 2022. Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669 
 - Zhao, B., **Liu, X.**, He, W. & Yi, G.Y. 2021. Dynamic tilted current correlation for high dimensional variable screening. Journal of Multivariate Analysis, 182, 104693. https://doi.org/10.1016/j.jmva.2020.104693
@@ -40,11 +47,6 @@ Currently I am the Chaired Associate Professor of the Department of Applied Stat
 - **Liu, X.**, Zhao, B., & He, W. 2020.  Simultaneous feature selection and classification for data-adaptive kernel-penalized SVM. Mathematics, 8(10), 1846. https://doi.org/10.3390/math8101846
 - **Liu, X.**, Wu, J., Yang, C. & Jiang, W. 2018. A maximal tail dependence-based clustering procedure for financial time series and its applications in portfolio selection. Risks, 6(115),1-18. 
 - Yang, C., **Liu, X.**, Wu, J., Li, Z & Jiang, W. 2018. Clustering of financial time series using jump tail dependence coefficient. Statistical Methods and Applications, 27(3), 491-513.
-- Zhang, Z. & **Liu, X.***. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. Submitted to NeurIPS 2022. Under Review. 
-- Wang, S., Shi, H. & **Liu, X.***. Simultaneous dimension deduction and drediction using networks. Submitted to NeurIPS 2022. Under Review. 
-- Zhang, Z., Chen, S. & **Liu, X.***. A Novel update and propagation-based dynamic graph neural network with application to consumer finance data. Submitted to ACMKDD 2022. Under Review. 
-- Chen, S., **Liu, X.*** & He, W.. Grouped variable selection in joint modeling using block coordinate gradient descent method. Submitted to Canadian Journal of Statistics. Under review.
-- Li, W., & **Liu, X.***. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Submitted to Canadian Journal of Statistics. Under review.
 
 
  
