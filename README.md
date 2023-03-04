@@ -34,10 +34,10 @@ Currently I am the Chaired Associate Professor of the Department of Applied Stat
 - Zhang, Z. & **Liu, X.***. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. ICML 2022. Under review. 
 - Wang, S., Shi, H. & **Liu, X.***. Simultaneous dimension deduction and drediction using networks. ICML 2023. Under review. 
 - Chen, S. & **Liu, X**.* (2023+) A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Under review.
-- Guo, S., Wang, S. & **Liu, X**.* (2023+). A Novelty Update and Propagation-based Dynamic Graph Neural Networks and Its Application to Consumer Finance Data. Statistics and Its Interface. Minor revision.
+- **Liu, X**., Guo, S., Zhang, Z. & Wang, S.* (2023+). A Novel Update and Propagation-based Dynamic Graph Neural Networks and Its Application to Consumer Finance Data. Statistics and Its Interface. Accepted. 
 - **Liu, X**., Chen, S. & Hu, J.* (2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
-- Guo, S., Xu, M. & **Liu, X**.* (2023+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Minor revision.
-- Che, Y., Chen, S., **Liu, X**. 2022. Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
+- Guo, S., Wang, S. & **Liu, X**.* (2023+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Major revision.
+- Che, Y., Chen, S., **Liu, X**. (2022). Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
 - **Liu, X.**, Zheng, Q., Shen, X. & Wang, S. 2022. An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287
 - **Liu, X.** & He, W. 2022. Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669 
 - Zhao, B., **Liu, X.**, He, W. & Yi, G.Y. 2021. Dynamic tilted current correlation for high dimensional variable screening. Journal of Multivariate Analysis, 182, 104693. https://doi.org/10.1016/j.jmva.2020.104693
