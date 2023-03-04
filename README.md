@@ -27,7 +27,7 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 - 2023.1 to 2025.12: National Natural Science Foundation of China (NSFC12201383)
 - 2022.1 to 2024.12: Shanghai Pujiang Program (21PJC056) 
-- 2021.1 to 2023.12: Ipsos
+- 2021.1 to 2023.12: NLP Consulting Program with Ipsos Ltd., China
 
 
 ### Teaching
