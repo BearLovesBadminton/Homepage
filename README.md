@@ -34,7 +34,7 @@ Currently I am the Chaired Associate Professor of the Department of Applied Stat
 - Zhang, Z. & **Liu, X.***. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. ICML 2022. Under review. 
 - Wang, S., Shi, H. & **Liu, X.***. Simultaneous dimension deduction and drediction using networks. ICML 2023. Under review. 
 - Chen, S. & **Liu, X**.* (2023+) A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Under review.
-- **Liu, X**., Guo, S., Zhang, Z. & Wang, S.* (2023+). A Novel Update and Propagation-based Dynamic Graph Neural Networks and Its Application to Consumer Finance Data. Statistics and Its Interface. Accepted. 
+- **Liu, X**., Zhang, Z., Guo, S. & Wang, S.* (2023+). A Novel Update and Propagation-based Dynamic Graph Neural Networks and Its Application to Consumer Finance Data. Statistics and Its Interface. Accepted. 
 - **Liu, X**., Chen, S. & Hu, J.* (2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
 - Guo, S., Wang, S. & **Liu, X**.* (2023+). Ultra-high dimensional change point detection. Journal of Multivariate Analysis. Major revision.
 - Che, Y., Chen, S., **Liu, X**. (2022). Sparse Index Tracking Portfolio with Sector Neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645
