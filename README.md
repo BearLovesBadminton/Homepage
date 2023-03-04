@@ -12,13 +12,22 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 - M.Sc., School of Statistics and Management, SUFE
 - Bacholar, School of Statistics and Management, SUFE
 
+
 ### Working Experience
 
-- 2020.8 to present: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
-- 2020.8 to 2022.8: Associate Professor in School of Statistics and Management, SUFE.
+- 2022.3 to present: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
+- 2022.3 to 2025.2: Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
+- 2020.8 to 2022.3: Associate Professor in School of Statistics and Management, SUFE.
 - 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
-- 2018.8 to 2019.1, Visiting scholar, Simon Fraser University
-- 2018.2 to 2018.7, Visiting scholar, University of Waterloo
+- 2018.8 to 2019.1: Visiting scholar, Simon Fraser University
+- 2018.2 to 2018.7: Visiting scholar, University of Waterloo
+
+
+### Research Project
+
+- 2023.1 to 2025.12: National Natural Science Foundation of China (NSFC12201383)
+- 2022.1 to 2024.12: Shanghai Pujiang Program (21PJC056) 
+- 2021.1 to 2023.12: Ipsos
 
 
 ### Teaching
@@ -27,6 +36,7 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 - Data Analysis and Statistical Modelling
 - Predictive Analysis (for MBA)
 - Data Visualization
+
 
 ### Publication
 
