@@ -14,11 +14,11 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 ### Working Experience
 
-- 2020.8 /- present: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
-- 2020.8 /- 2022.8: Associate Professor in School of Statistics and Management, SUFE.
-- 2019.1 /- 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
-- 2018.8 /- 2019.1, Visiting scholar, Simon Fraser University
-- 2018.2 /- 2018.7, Visiting scholar, University of Waterloo
+- 2020.8 to present: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
+- 2020.8 to 2022.8: Associate Professor in School of Statistics and Management, SUFE.
+- 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
+- 2018.8 to 2019.1, Visiting scholar, Simon Fraser University
+- 2018.2 to 2018.7, Visiting scholar, University of Waterloo
 
 
 ### Teaching
