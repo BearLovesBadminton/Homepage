@@ -15,8 +15,8 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 ### Working Experience
 
-- 2022.3 to present: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
-- 2022.3 to 2025.2: Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
+- 2023.3 to 2025.2: Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
+- 2022.3 to 2028.2: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
 - 2020.8 to 2022.3: Associate Professor in School of Statistics and Management, SUFE.
 - 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
 - 2018.8 to 2019.1: Visiting scholar, Simon Fraser University
