@@ -44,9 +44,9 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 - **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annuals of Applied Statistics. Under review.
 - Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
 - Zhang, Z. & **Liu, X.**. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. IEEE Transactions on Neural Networks and Learning Systems. Under review.
-- Guo, S., Wang, S. & **Liu, X**. (2023+). Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
-- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. ICML 2023. Under review. 
-- Chen, S. & **Liu, X.**. A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Major revision.
+- Guo, S., Wang, S. & **Liu, X**.. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
+- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Under review. 
+- Chen, S. & **Liu, X.**(2023+). A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Major revision.
 - **Liu, X**., Chen, S. & Hu, J.(2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
 - **Liu, X**., Zhang, Z., Guo, S. & Wang, S.(2023+). A Novel update and propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface. Accepted. 
 - Che, Y., Chen, S., **Liu, X**. (2022). Sparse index tracking portfolio with sector neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645.
