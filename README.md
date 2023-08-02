@@ -41,7 +41,7 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 ### Publication
 
 - Ma, H., Sang, P., Feng, X. & **Liu, X.**. A robust mixed functional classifier with adaptive large margin loss. Journal of the American Statistical Association. Under review.
-- **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annuals of Applied Statistics. Under review.
+- **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annals of Applied Statistics. Under review.
 - Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
 - Zhang, Z. & **Liu, X.**. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. IEEE Transactions on Neural Networks and Learning Systems. Under review.
 - Guo, S., Wang, S. & **Liu, X**.. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
