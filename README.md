@@ -4,7 +4,7 @@ Welcome to my Homepage!
 
 
 ### Perosonal info and Research interest
-Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Management at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, variable selection and screening, theories and applications in statistical learning and networks, and topics in graphical models and inference.
+Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Management at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, theories and applications in statistical learning and networks, and topics in variable selection and screening.
 
 ### Education
 
