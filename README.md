@@ -48,7 +48,7 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 - Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Under review. 
 - Chen, S. & **Liu, X.**(2023+). A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Major revision.
 - **Liu, X**., Chen, S. & Hu, J.(2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
-- **Liu, X**., Zhang, Z., Guo, S. & Wang, S.(2023+). A Novel update and propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface. Accepted. 
+- Guo, S., **Liu, X**., Wang, S. & Zhang, Z.(2023+). A Novel update and propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface. Accepted. 
 - Che, Y., Chen, S., **Liu, X**. (2022). Sparse index tracking portfolio with sector neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645.
 - **Liu, X.**, Zheng, Q., Shen, X. & Wang, S. (2022). An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287.
 - **Liu, X.** & He, W. (2022). Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669. 
