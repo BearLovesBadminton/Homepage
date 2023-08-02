@@ -25,8 +25,9 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 ### Research Project
 
-- 2023.1 to 2025.12: National Natural Science Foundation of China (NSFC12201383)
-- 2022.1 to 2024.12: Shanghai Pujiang Program (21PJC056) 
+- 2023.1 to 2025.12: National Natural Science Foundation of China (grant no. 12201383)
+- 2022.1 to 2024.12: Shanghai Pujiang Program (grant no. 21PJC056)
+- 2021.1 to 2024.12: Participant of Innovative Research Team of SUFE (2020110930)
 - 2021.1 to 2023.12: NLP Consulting Program with Ipsos Ltd., China
 
 
