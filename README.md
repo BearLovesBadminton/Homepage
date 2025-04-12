@@ -41,20 +41,21 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 
 ### Working Paper
-- Ma, H., Sang, P., Feng, X. & **Liu, X.**. A robust mixed functional classifier with adaptive large margin loss. Journal of the American Statistical Association. Under review.
+- Ma, H., Shen, Z., Feng, X. & **Liu, X.**. Sparsity learning via structured functional factor augmentation. Journal of the American Statistical Association. Under review.
 - **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annals of Applied Statistics. Under review.
 - Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
-- Zhang, Z. & **Liu, X.**. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. IEEE Transactions on Neural Networks and Learning Systems. Under review.
+- Zhang, Z. & **Liu, X.**. A unified framework of classification-based equality test of distributions. Journal of Multivariate Analysis. Under review.
 - Guo, S., Wang, S. & **Liu, X.**. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
-- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Under review.
+- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Major revision.
+- **Liu, X**., Chen, S. & Hu, J.. Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
 
 
 ### Publication
 - Zhang, Z., **Liu, X.**, Wang, S. & Teng, J. (2025). A minimax optimal two-stage algorithm for moment estimation under covariate shift. In Proceedingds of The Thirteenth International Conference on Learning Representations (ICLR). Forthcoming.
+- Ma, H., Sang, P., Feng, X. & **Liu, X.** (2025). A robust mixed functional classifier with adaptive large margin loss. Journal of Multivariate Analysis. Forthcoming.
 - Zhang, Z., Chen, S. & **Liu, X.**. (2025) A deep support vector clustering algorithm for unsupervised and semi-supervised learning. Canadia Journal of Statistics. Accepted.
-- Chen, S. & **Liu, X.**(2023+). A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Major revision.
-- **Liu, X**., Chen, S. & Hu, J. (2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
-- Guo, S., **Liu, X**., Wang, S. & Zhang, Z.(2023+). A novel Update and Propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface. Accepted. 
+- Chen, S. Fang, Z., Li, Z. & **Liu, X.**. A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. 43(23): 4595-4613. https://doi.org/10.1002/sim.10193.
+- Guo, S., **Liu, X**., Wang, S. & Zhang, Z.(2024). A novel Update and Propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface, 17(3), 439-450. 
 - Che, Y., Chen, S., **Liu, X**. (2022). Sparse index tracking portfolio with sector neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645.
 - **Liu, X.**, Zheng, Q., Shen, X. & Wang, S. (2022). An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287.
 - **Liu, X.** & He, W. (2022). Adaptive kernel scaling support vector machine with application to a prostate cancer image study. Journal of Applied Statistics, 6(49), 1465-1484. https://doi.org/10.1080/02664763.2020.1870669. 
