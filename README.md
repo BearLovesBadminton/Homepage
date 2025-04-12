@@ -4,7 +4,7 @@ Welcome to my Homepage!
 
 
 ### Perosonal info and Research interest
-Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Management at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, theories and applications in statistical learning and networks, and topics in variable selection and screening.
+Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Data Science at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, theories and applications in statistical learning and networks, and topics in variable selection and screening.
 
 ### Education
 
@@ -16,7 +16,8 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 ### Working Experience
 
 - 2023.3 to 2025.2: Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
-- 2022.3 to 2028.2: Chaired Associate Professor with tenure in School of Statistics and Management, SUFE.
+- 2022.3 to 2028.2: Chaired Associate Professor with tenure in School of Statistics and Data Science, SUFE.
+- 2022.8 to 2024.3: Adjunct Professor in SPS (Intergrated Marketing), NYU Shanghai.
 - 2020.8 to 2022.3: Associate Professor in School of Statistics and Management, SUFE.
 - 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
 - 2018.8 to 2019.1: Visiting scholar, Simon Fraser University
@@ -33,22 +34,26 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 ### Teaching
 
-- Mathematical Statistics
 - Data Analysis and Statistical Modelling
+- Database Management and Visualization
+- Mathematical Statistics
 - Predictive Analysis (for MBA)
-- Data Visualization
 
 
-### Publication
-
+### Working Paper
 - Ma, H., Sang, P., Feng, X. & **Liu, X.**. A robust mixed functional classifier with adaptive large margin loss. Journal of the American Statistical Association. Under review.
 - **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annals of Applied Statistics. Under review.
 - Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
 - Zhang, Z. & **Liu, X.**. A novel deep support vector clustering algorithm for unsupervised and semi-supervised learning. IEEE Transactions on Neural Networks and Learning Systems. Under review.
-- Guo, S., Wang, S. & **Liu, X**.. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
-- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Under review. 
+- Guo, S., Wang, S. & **Liu, X.**. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
+- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Under review.
+
+
+### Publication
+- Zhang, Z., **Liu, X.**, Wang, S. & Teng, J. (2025). A minimax optimal two-stage algorithm for moment estimation under covariate shift. In Proceedingds of The Thirteenth International Conference on Learning Representations (ICLR). Forthcoming.
+- Zhang, Z., Chen, S. & **Liu, X.**. (2025) A deep support vector clustering algorithm for unsupervised and semi-supervised learning. Canadia Journal of Statistics. Accepted.
 - Chen, S. & **Liu, X.**(2023+). A novel block-coordinate gradient descent algorithm for simultaneous grouped selection of fixed and random effects in joint modeling. Statistics in Medicine. Major revision.
-- **Liu, X**., Chen, S. & Hu, J.(2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
+- **Liu, X**., Chen, S. & Hu, J. (2023+). Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
 - Guo, S., **Liu, X**., Wang, S. & Zhang, Z.(2023+). A novel Update and Propagation-based dynamic graph neural networks and its application to consumer finance data. Statistics and Its Interface. Accepted. 
 - Che, Y., Chen, S., **Liu, X**. (2022). Sparse index tracking portfolio with sector neutrality. Mathematics, 10(15), 2645. https://doi.org/10.3390/math10152645.
 - **Liu, X.**, Zheng, Q., Shen, X. & Wang, S. (2022). An iterative learning algorithm to learn from positive and unlabeled examples. Statistica Sinica, 32, 1-22. https://doi.org/10.5705/ss.202020.0287.
