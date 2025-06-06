@@ -4,7 +4,7 @@ Welcome to my Homepage!
 
 
 ### Perosonal info and Research interest
-Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Data Science at SUFE. My research interest includes high-dimensional data modelling, complex data modeling and inference, theories and applications in statistical learning and networks, and topics in variable selection and screening.
+Currently I am the Chaired Associate Professor of Department of Applied Statistics in School of Statistics and Data Science at SUFE. My research interest includes theories and applications in statistical learning, functional data modeling and inference, and topics in high-dimensional statistics.
 
 ### Education
 
@@ -14,40 +14,41 @@ Currently I am the Chaired Associate Professor of Department of Applied Statisti
 
 
 ### Working Experience
+- 2025.1 to Present: Associate Professor in School of Statistics and Data Science, SUFE.
+                     Adjunct Professor, New York Univeristy (Shanghai Campus).
+- 2022.3 to 2028.2:  Chair Associate Professor in School of Statistics and Data Science, SUFE.
+- 2020.8 to 2024.12: Associate Professor in School of Statistics and Management, SUFE.
+                     Adjunct Professor, New York Univeristy (Shanghai Campus).
+                     Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
+- 2019.1 to 2020.7:  Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
+- 2018.8 to 2019.1:  Visiting scholar, Simon Fraser University
+- 2018.2 to 2018.7:  Visiting scholar, University of Waterloo
 
-- 2023.3 to 2025.2: Invited Adjunct Assistant Prosecutor, Shanghai Municipal Procuratorate.
-- 2022.3 to 2028.2: Chaired Associate Professor with tenure in School of Statistics and Data Science, SUFE.
-- 2022.8 to 2024.3: Adjunct Professor in SPS (Intergrated Marketing), NYU Shanghai.
-- 2020.8 to 2022.3: Associate Professor in School of Statistics and Management, SUFE.
-- 2019.1 to 2020.7: Assistant Professor / Assistant Research Fellow in School of Statistics and Management, SUFE.
-- 2018.8 to 2019.1: Visiting scholar, Simon Fraser University
-- 2018.2 to 2018.7: Visiting scholar, University of Waterloo
 
-
-### Research Project
-
+### Research Grant
+- 2024.1 to 2026.12: Innovative Research Team of SUFE, participant
 - 2023.1 to 2025.12: National Natural Science Foundation of China (grant no. 12201383)
 - 2022.1 to 2024.12: Shanghai Pujiang Program (grant no. 21PJC056)
-- 2021.1 to 2024.12: Participant of Innovative Research Team of SUFE (2020110930)
+- 2021.1 to 2024.12: Innovative Research Team of SUFE, participant
 - 2021.1 to 2023.12: NLP Consulting Program with Ipsos Ltd., China
 
 
 ### Teaching
 
 - Data Analysis and Statistical Modelling
-- Database Management and Visualization
+- Data Management and Visualization
+- Statistics
 - Mathematical Statistics
 - Predictive Analysis (for MBA)
 
 
 ### Working Paper
+- **Liu, X**., Chen, S. & Hu, J.. Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. To be submitted.
 - Ma, H., Shen, Z., Feng, X. & **Liu, X.**. Sparsity learning via structured functional factor augmentation. Journal of the American Statistical Association. Under review.
-- **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Annals of Applied Statistics. Under review.
-- Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Canadian Journal of Statistics. Under review.
-- Zhang, Z. & **Liu, X.**. A unified framework of classification-based equality test of distributions. Journal of Multivariate Analysis. Under review.
-- Guo, S., Wang, S. & **Liu, X.**. Ultra-high dimensional change point detection. Canadian Journal of Statistics. Under Review.
-- Wang, S., Shi, H. & **Liu, X.**. Simultaneous dimension deduction and prediction using networks. Journal of Nonparametric Statistics. Major revision.
-- **Liu, X**., Chen, S. & Hu, J.. Directed pathway tests on the asymmetric copula-based maximal tail dependence coefficient using directed acyclic graph models with an application to financial contagion. Journal of Multivariate Analysis. Major revision.
+- **Liu, X.**, Qian, T. & Huang, M.. The penalized Mallows' random forest model and its asymptotic optimality. Canadian Journal of Statistics. Under review.
+- Li, W. & **Liu, X.**. Simultaneous variable selection and covariance estimation in high dimensional linear mixed model. Journal of Multivariate Analysis. Under review.
+- Zhang, Z. & **Liu, X.**. A unified framework of classification-based equality test of distributions. Canadian Journal of Statistics. Under review.
+- Guo, S., Wang, S. & **Liu, X.**. Ultra-high dimensional change point detection. Journal of Nonparametric Statistics. Major revision.
 
 
 ### Publication
